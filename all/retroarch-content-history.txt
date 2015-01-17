@@ -1,0 +1,81 @@
+/home/pi/RetroPie/roms/nes/Burger Time (U) [!].nes
+/opt/retropie/libretrocores/neslibretro/fceumm_libretro.so
+FCEUmm
+/home/pi/RetroPie/roms/nes/Simpsons, The - Bartman Meets Radioactive Man (U) [!].nes
+/opt/retropie/libretrocores/neslibretro/fceumm_libretro.so
+FCEUmm
+/home/pi/RetroPie/roms/nes/Legend of Zelda, The (U) (PRG1) [!].nes
+/opt/retropie/libretrocores/neslibretro/fceumm_libretro.so
+FCEUmm
+/home/pi/RetroPie/roms/nes/Goonies, The (VS).nes
+/opt/retropie/libretrocores/neslibretro/fceumm_libretro.so
+FCEUmm
+/home/pi/RetroPie/roms/nes/Tetris (U) [!].nes
+/opt/retropie/libretrocores/neslibretro/fceumm_libretro.so
+FCEUmm
+/home/pi/RetroPie/roms/nes/Teenage Mutant Ninja Turtles II - The Arcade Game (U) [!].nes
+/opt/retropie/libretrocores/neslibretro/fceumm_libretro.so
+FCEUmm
+/home/pi/RetroPie/roms/nes/Super Mario Bros. (JU) [!].nes
+/opt/retropie/libretrocores/neslibretro/fceumm_libretro.so
+FCEUmm
+/home/pi/RetroPie/roms/nes/Back to the Future II & III (U) [!].nes
+/opt/retropie/libretrocores/neslibretro/fceumm_libretro.so
+FCEUmm
+/home/pi/RetroPie/roms/nes/Duck Tales (U) [!].nes
+/opt/retropie/libretrocores/neslibretro/fceumm_libretro.so
+FCEUmm
+/home/pi/RetroPie/roms/nes/Contra (U) [!].nes
+/opt/retropie/libretrocores/neslibretro/fceumm_libretro.so
+FCEUmm
+/home/pi/RetroPie/roms/nes/Double Dragon (U) [!].nes
+/opt/retropie/libretrocores/neslibretro/fceumm_libretro.so
+FCEUmm
+/home/pi/RetroPie/roms/nes/Donkey Kong 3 (U) [!].nes
+/opt/retropie/libretrocores/neslibretro/fceumm_libretro.so
+FCEUmm
+/home/pi/RetroPie/roms/nes/Clash at Demonhead (U) [!].nes
+/opt/retropie/libretrocores/neslibretro/fceumm_libretro.so
+FCEUmm
+/home/pi/RetroPie/roms/nes/Bomberman II (U) [!p].nes
+/opt/retropie/libretrocores/neslibretro/fceumm_libretro.so
+FCEUmm
+/home/pi/RetroPie/roms/nes/Batman - Return of the Joker (U) [!].nes
+/opt/retropie/libretrocores/neslibretro/fceumm_libretro.so
+FCEUmm
+/home/pi/RetroPie/roms/nes/Super Mario Bros. 3 (U) (PRG1) [!].nes
+/opt/retropie/libretrocores/neslibretro/fceumm_libretro.so
+FCEUmm
+/home/pi/RetroPie/roms/nes/Ninja Gaiden (U).nes
+/opt/retropie/libretrocores/neslibretro/fceumm_libretro.so
+FCEUmm
+/home/pi/RetroPie/roms/nes/Megaman2.nes
+/opt/retropie/libretrocores/neslibretro/fceumm_libretro.so
+FCEUmm
+/home/pi/RetroPie/roms/nes/Batman (U).nes
+/opt/retropie/libretrocores/neslibretro/fceumm_libretro.so
+FCEUmm
+/home/pi/RetroPie/roms/mastersystem/Alex Kidd in Miracle World (UE) [!].sms
+/opt/retropie/libretrocores/picodrive/picodrive_libretro.so
+PicoDrive
+/home/pi/RetroPie/roms/n64/SUPER_MARIO_64_(U)_[!] (2).V64
+/opt/retropie/libretrocores/mupen64plus/mupen64plus_libretro.so
+Mupen64plus
+/home/pi/RetroPie/roms/mastersystem/Sonic the Hedgehog (UE) [!].sms
+/opt/retropie/libretrocores/picodrive/picodrive_libretro.so
+PicoDrive
+/home/pi/RetroPie/roms/snes/Teenage Mutant Ninja Turtles IV - Turtles in Time (U) [!].smc
+/opt/retropie/libretrocores/pocketsnes/libretro.so
+PocketSNES
+/home/pi/RetroPie/roms/snes/Super Mario World (U) [!].smc
+/opt/retropie/libretrocores/pocketsnes/libretro.so
+PocketSNES
+/home/pi/RetroPie/roms/snes/Super Star Wars (U) (31438).smc
+/opt/retropie/libretrocores/pocketsnes/libretro.so
+PocketSNES
+/home/pi/RetroPie/roms/snes/Contra III - The Alien Wars (U) [!].smc
+/opt/retropie/libretrocores/pocketsnes/libretro.so
+PocketSNES
+/home/pi/RetroPie/roms/ports/doom/doom1.wad
+/opt/retropie/libretrocores/doom/prboom_libretro.so
+prboom
