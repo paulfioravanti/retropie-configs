@@ -1,3 +1,27 @@
+/home/pi/RetroPie/roms/nes/Fist of the North Star (U) [!].nes
+/opt/retropie/libretrocores/neslibretro/fceumm_libretro.so
+FCEUmm
+/home/pi/RetroPie/roms/nes/Double Dragon II - The Revenge (U) (PRG1) [!].nes
+/opt/retropie/libretrocores/neslibretro/fceumm_libretro.so
+FCEUmm
+/home/pi/RetroPie/roms/nes/Batman Returns (U) [!].nes
+/opt/retropie/libretrocores/neslibretro/fceumm_libretro.so
+FCEUmm
+/home/pi/RetroPie/roms/nes/Duck Tales (U) [!].nes
+/opt/retropie/libretrocores/neslibretro/fceumm_libretro.so
+FCEUmm
+/home/pi/RetroPie/roms/nes/Batman (U) [!].nes
+/opt/retropie/libretrocores/neslibretro/fceumm_libretro.so
+FCEUmm
+/home/pi/RetroPie/roms/nes/Master Chu & The Drunkard Hu (Sachen) [U][!].nes
+/opt/retropie/libretrocores/neslibretro/fceumm_libretro.so
+FCEUmm
+/home/pi/RetroPie/roms/nes/Megaman III (U) [!].nes
+/opt/retropie/libretrocores/neslibretro/fceumm_libretro.so
+FCEUmm
+/home/pi/RetroPie/roms/nes/Megaman II (U) [!].nes
+/opt/retropie/libretrocores/neslibretro/fceumm_libretro.so
+FCEUmm
 /home/pi/RetroPie/roms/nes/Burger Time (U) [!].nes
 /opt/retropie/libretrocores/neslibretro/fceumm_libretro.so
 FCEUmm
@@ -20,9 +44,6 @@ FCEUmm
 /opt/retropie/libretrocores/neslibretro/fceumm_libretro.so
 FCEUmm
 /home/pi/RetroPie/roms/nes/Back to the Future II & III (U) [!].nes
-/opt/retropie/libretrocores/neslibretro/fceumm_libretro.so
-FCEUmm
-/home/pi/RetroPie/roms/nes/Duck Tales (U) [!].nes
 /opt/retropie/libretrocores/neslibretro/fceumm_libretro.so
 FCEUmm
 /home/pi/RetroPie/roms/nes/Contra (U) [!].nes
