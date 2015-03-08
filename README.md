@@ -21,3 +21,7 @@ These files go under the `/opt/retropie/configs/` directory, where all custom co
 ### Notable Deviations from default
 
 - The default config for XBox 360 controllers on the NES emulator has the A and B buttons around the wrong way (it's unnatural to me, at least), so those buttons are switched for NES games 
+
+### Other notes
+
+- Resolution of screen can be set on a per-emulator basis by changing the values in `/etc/emulationstation/es_systems.cfg` (values for the `runcommand.sh` script are 0, 1, or 4. ([more info](https://github.com/petrockblog/RetroPie-Setup/blob/master/supplementary/runcommand.sh))
