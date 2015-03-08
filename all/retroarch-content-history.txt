@@ -1,3 +1,60 @@
+/home/pi/RetroPie/roms/snes/Gokujou Parodius (J).smc
+/opt/retropie/libretrocores/pocketsnes/libretro.so
+PocketSNES
+/home/pi/RetroPie/roms/snes/Jikkyou Oshaberi Parodius.smc
+/opt/retropie/libretrocores/pocketsnes/libretro.so
+PocketSNES
+/home/pi/RetroPie/roms/nes/Bubble Bobble (U) [!].nes
+/opt/retropie/libretrocores/neslibretro/fceumm_libretro.so
+FCEUmm
+/home/pi/RetroPie/roms/nes/Bee 52 (Unl) [!].nes
+/opt/retropie/libretrocores/neslibretro/fceumm_libretro.so
+FCEUmm
+/home/pi/RetroPie/roms/nes/Balloon Fight (U) [!].nes
+/opt/retropie/libretrocores/neslibretro/fceumm_libretro.so
+FCEUmm
+/home/pi/RetroPie/roms/nes/1943 - The Battle of Midway (U) [!].nes
+/opt/retropie/libretrocores/neslibretro/fceumm_libretro.so
+FCEUmm
+/home/pi/RetroPie/roms/nes/1942 (U) [!].nes
+/opt/retropie/libretrocores/neslibretro/fceumm_libretro.so
+FCEUmm
+/home/pi/RetroPie/roms/nes/TwinBee 3 - Poko Poko Dai Maou (J) [T+Eng1.02_Demiforce].nes
+/opt/retropie/libretrocores/neslibretro/fceumm_libretro.so
+FCEUmm
+/home/pi/RetroPie/roms/nes/Twin Cobra (U) [!].nes
+/opt/retropie/libretrocores/neslibretro/fceumm_libretro.so
+FCEUmm
+/home/pi/RetroPie/roms/nes/Smash T.V. (U) [!].nes
+/opt/retropie/libretrocores/neslibretro/fceumm_libretro.so
+FCEUmm
+/home/pi/RetroPie/roms/nes/Popeye no Eigo Asobi (J) [T+Eng1.0_KingMike].nes
+/opt/retropie/libretrocores/neslibretro/fceumm_libretro.so
+FCEUmm
+/home/pi/RetroPie/roms/nes/P.O.W. - Prisoners of War (U) [!].nes
+/opt/retropie/libretrocores/neslibretro/fceumm_libretro.so
+FCEUmm
+/home/pi/RetroPie/roms/nes/Operation Wolf (U) [!].nes
+/opt/retropie/libretrocores/neslibretro/fceumm_libretro.so
+FCEUmm
+/home/pi/RetroPie/roms/nes/Mission Cobra (Unl) [!].nes
+/opt/retropie/libretrocores/neslibretro/fceumm_libretro.so
+FCEUmm
+/home/pi/RetroPie/roms/nes/Gradius (U) [!].nes
+/opt/retropie/libretrocores/neslibretro/fceumm_libretro.so
+FCEUmm
+/home/pi/RetroPie/roms/nes/Gradius II (J).nes
+/opt/retropie/libretrocores/neslibretro/fceumm_libretro.so
+FCEUmm
+/home/pi/RetroPie/roms/nes/Ghosts 'N Goblins (U) [!].nes
+/opt/retropie/libretrocores/neslibretro/fceumm_libretro.so
+FCEUmm
+/home/pi/RetroPie/roms/nes/Gauntlet II (U) [!].nes
+/opt/retropie/libretrocores/neslibretro/fceumm_libretro.so
+FCEUmm
+/home/pi/RetroPie/roms/nes/Bomberman II (U) [!p].nes
+/opt/retropie/libretrocores/neslibretro/fceumm_libretro.so
+FCEUmm
 /home/pi/RetroPie/roms/nes/Fist of the North Star (U) [!].nes
 /opt/retropie/libretrocores/neslibretro/fceumm_libretro.so
 FCEUmm
@@ -56,9 +113,6 @@ FCEUmm
 /opt/retropie/libretrocores/neslibretro/fceumm_libretro.so
 FCEUmm
 /home/pi/RetroPie/roms/nes/Clash at Demonhead (U) [!].nes
-/opt/retropie/libretrocores/neslibretro/fceumm_libretro.so
-FCEUmm
-/home/pi/RetroPie/roms/nes/Bomberman II (U) [!p].nes
 /opt/retropie/libretrocores/neslibretro/fceumm_libretro.so
 FCEUmm
 /home/pi/RetroPie/roms/nes/Batman - Return of the Joker (U) [!].nes
