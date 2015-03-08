@@ -1,3 +1,6 @@
+/home/pi/RetroPie/roms/snes/Contra III - The Alien Wars (U) [!].smc
+/opt/retropie/libretrocores/pocketsnes/libretro.so
+PocketSNES
 /home/pi/RetroPie/roms/nes/Super Mario Bros. (JU) [!].nes
 /opt/retropie/libretrocores/neslibretro/fceumm_libretro.so
 FCEUmm
@@ -146,9 +149,6 @@ PocketSNES
 /opt/retropie/libretrocores/pocketsnes/libretro.so
 PocketSNES
 /home/pi/RetroPie/roms/snes/Super Star Wars (U) (31438).smc
-/opt/retropie/libretrocores/pocketsnes/libretro.so
-PocketSNES
-/home/pi/RetroPie/roms/snes/Contra III - The Alien Wars (U) [!].smc
 /opt/retropie/libretrocores/pocketsnes/libretro.so
 PocketSNES
 /home/pi/RetroPie/roms/ports/doom/doom1.wad
