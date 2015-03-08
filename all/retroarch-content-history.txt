@@ -1,3 +1,6 @@
+/home/pi/RetroPie/roms/nes/Super Mario Bros. (JU) [!].nes
+/opt/retropie/libretrocores/neslibretro/fceumm_libretro.so
+FCEUmm
 /home/pi/RetroPie/roms/snes/Gokujou Parodius (J).smc
 /opt/retropie/libretrocores/pocketsnes/libretro.so
 PocketSNES
@@ -95,9 +98,6 @@ FCEUmm
 /opt/retropie/libretrocores/neslibretro/fceumm_libretro.so
 FCEUmm
 /home/pi/RetroPie/roms/nes/Teenage Mutant Ninja Turtles II - The Arcade Game (U) [!].nes
-/opt/retropie/libretrocores/neslibretro/fceumm_libretro.so
-FCEUmm
-/home/pi/RetroPie/roms/nes/Super Mario Bros. (JU) [!].nes
 /opt/retropie/libretrocores/neslibretro/fceumm_libretro.so
 FCEUmm
 /home/pi/RetroPie/roms/nes/Back to the Future II & III (U) [!].nes
